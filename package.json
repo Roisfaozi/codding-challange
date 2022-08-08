@@ -1,0 +1,11 @@
+{
+  "name": "codding-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jos_easy_odd_even_number.js",
+  "scripts": {
+    "start": "node jos_easy_odd_even_number.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
